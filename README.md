@@ -5,3 +5,7 @@ The objective of this exercise is to identify images where an "effusion" is pres
 
 This same methodology can be used to spot various other illnesses that can be detected via a chest x-ray. For the scope of this demonstration, we will specifically deal with "effusion".
  
+- Accuracies Comparisions
+![](https://github.com/bhargrah/keras_x_ray_image_classification_git/blob/master/images/acc.png)
+- Validation Accuracies
+- AUC Comparision
