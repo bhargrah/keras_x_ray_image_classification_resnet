@@ -3,9 +3,11 @@ Neural networks have revolutionised image processing in several different domain
 
 The objective of this exercise is to identify images where an "effusion" is present. This is a classification problem, where we will be dealing with two classes - 'effusion' and 'nofinding'. Here, the latter represents a "normal" X-ray image.
 
-This same methodology can be used to spot various other illnesses that can be detected via a chest x-ray. For the scope of this demonstration, we will specifically deal with "effusion".
+Models have been build/trained using resnet and below is the comparisions for the same.  
  
 - Accuracies Comparisions
 ![](https://github.com/bhargrah/keras_x_ray_image_classification_git/blob/master/images/acc.png)
 - Validation Accuracies
+![](https://github.com/bhargrah/keras_x_ray_image_classification_git/blob/master/images/val_acc.png)
 - AUC Comparision
+![](https://github.com/bhargrah/keras_x_ray_image_classification_git/blob/master/images/val_auc.png)
